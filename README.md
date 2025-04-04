@@ -50,7 +50,7 @@ How to use:
 ./script.sh -cpu   # Example: View CPU usage details
 
 
-## 🛠️ Installing Nginx  
+## 🛠️ Note
 
 If Nginx is not installed, install it using the following commands:  
 ```sh
