@@ -46,7 +46,7 @@ To enhance usability, command-line switches allow users to view specific section
 -network  # Monitor network activity
 -all      # Display all activity
 
-**How to use**
-```bash
+How to use:
+```
 ./script.sh -cpu   # Example: View CPU usage details
 
