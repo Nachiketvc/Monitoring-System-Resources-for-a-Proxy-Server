@@ -23,7 +23,7 @@ This **Bash script** monitors system resources on a **SafeSquid proxy server**, 
    ```bash
    chmod +x script.sh
 
-4. 🖥️ System Monitoring Dashboard
+# 🖥️ System Monitoring Dashboard
 
 This system provides real-time monitoring with **test cases numbered from 1 to 7**. When a user inputs any of these numbers, the corresponding output is displayed, refreshing every **100 seconds** to ensure updated information.
 
@@ -44,5 +44,4 @@ To enhance usability, command-line switches allow users to view specific section
 -cpu      # View CPU usage details
 -memory   # Check memory utilization
 -network  # Monitor network activity
-
-   
+--all # Display all activity 
