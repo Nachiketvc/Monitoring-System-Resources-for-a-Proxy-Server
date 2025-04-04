@@ -14,3 +14,12 @@ This **Bash script** monitors system resources on a **SafeSquid proxy server**, 
    ```bash
    git clone https://github.com/Nachiketvc/Monitoring-System-Resources-for-a-Proxy-Server.git
    cd Monitoring-System-Resources-for-a-Proxy-Server
+
+2. **Give Execution Permission to the script:**
+   ```bash
+   chmod +x script.sh
+
+3. **Run the script**
+   ```bash
+   chmod +x script.sh
+   
