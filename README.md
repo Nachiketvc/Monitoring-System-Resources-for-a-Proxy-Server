@@ -49,3 +49,15 @@ To enhance usability, command-line switches allow users to view specific section
 How to use:
 ./script.sh -cpu   # Example: View CPU usage details
 
+
+## 🛠️ Installing Nginx  
+
+If Nginx is not installed, install it using the following commands:  
+```sh
+sudo apt update && sudo apt install nginx -y
+sudo systemctl start nginx
+sudo systemctl enable nginx
+sudo systemctl status nginx
+
+Simarly, Install other services too!
+
