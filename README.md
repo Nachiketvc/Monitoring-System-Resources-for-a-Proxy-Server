@@ -21,7 +21,7 @@ This **Bash script** monitors system resources on a **SafeSquid proxy server**, 
 
 3. **Run the script**
    ```bash
-   chmod +x script.sh
+   ./script.sh
 
 # 🖥️ System Monitoring Dashboard
 
