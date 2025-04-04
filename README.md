@@ -47,6 +47,5 @@ To enhance usability, command-line switches allow users to view specific section
 -all      # Display all activity
 
 How to use:
-```
 ./script.sh -cpu   # Example: View CPU usage details
 
