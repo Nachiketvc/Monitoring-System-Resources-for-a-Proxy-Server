@@ -50,7 +50,7 @@ How to use:
 ./script.sh -cpu   # Example: View CPU usage details
 
 
-## 🛠️ Note
+## 🛠️ Note - For Service Monitoring option. Make sure that you have installed necessary services.
 
 If Nginx is not installed, install it using the following commands:  
 ```sh
