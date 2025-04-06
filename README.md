@@ -53,7 +53,7 @@ How to use:
 ## 🛠️ Note - For Service Monitoring option. Make sure that you have installed necessary services.
 
 If Nginx is not installed, install it using the following commands:  
-```sh
+
 sudo apt update && sudo apt install nginx -y
 sudo systemctl start nginx
 sudo systemctl enable nginx
